@@ -23,3 +23,15 @@ Good to know facts below
 Cool Diagram to give me an idea of the Linux File System/Hierarchy laid out
 
 <img width="1114" height="763" alt="image" src="https://github.com/user-attachments/assets/6609215f-4817-4500-b595-93bba449cdd6" />
+
+
+
+Linux Distributions
+
+Each Linux distribution is different, with its own set of features, packages, and tools. Some popular examples include:
+
+Ubuntu-
+Fedora
+CentOS
+Debian
+Red Hat Enterprise Linux
