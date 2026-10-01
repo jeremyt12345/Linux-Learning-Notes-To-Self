@@ -35,3 +35,12 @@ Fedora
 CentOS
 Debian
 Red Hat Enterprise Linux
+
+<img width="927" height="344" alt="image" src="https://github.com/user-attachments/assets/409b05d8-8967-4d04-9319-14484a5b0663" />
+
+ Kali Linux is the most popular distribution for cyber security specialists, including a wide range of security-focused tools and packages. 
+
+ Debian a widely used distro for stability. It uses an Advanced Package Tool to handle software updates and security patches.
+
+
+Linux Shell
