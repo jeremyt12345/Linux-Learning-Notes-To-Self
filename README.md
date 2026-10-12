@@ -44,3 +44,8 @@ Red Hat Enterprise Linux
 
 
 Linux Shell
+
+
+The Linux shell is like the CMD, its where you use command to control the OS. "A Linux terminal, also called a shell or command line, provides a text-based input/output (I/O) interface between users and the kernel for a computer system."
+
+The most often used Linux shell is Bourne-Again Shell, BASH for short. 
